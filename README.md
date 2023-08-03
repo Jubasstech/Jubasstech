@@ -22,14 +22,14 @@ Please take a moment to explore my portfolio, where you'll find a curated select
 
 Let's connect and stay in touch through various social media platforms:
 
-- **Facebook:** [facebook.com/jerome.udoh]
-- **WhatsApp:** [Message Jubass on WhatsApp](https://wa.me/2348088221162) *(Feel free to reach out!)*
-- **LinkedIn:** [linkedin.com/in/jerome-udoh-072756125](https://www.linkedin.com/in/jerome-udoh-072756125)
-- **Instagram:** [instagram.com/jeromeudoh](https://www.instagram.com/jeromeudoh)
-- **Twitter:** [twitter.com/UdohJerome](https://twitter.com/UdohJerome)
-- **TikTok:** [tiktok.com/@jubasstv](https://www.tiktok.com/@jubasstv)  *(Yes, I'm on TikTok too!)*
-- **GitHub:** [github.com/Jubasstech](https://github.com/Jubasstech)
--  **YouTube:** [youtube.com/@JUBASSTV](https://www.youtube.com/@JUBASSTV)
+- **WhatsApp:** [Message Jubass on WhatsApp](https://wa.me/2348088221162){:target="_blank"}
+- **LinkedIn:** [linkedin.com/in/jerome-udoh-072756125](https://www.linkedin.com/in/jerome-udoh-072756125){:target="_blank"}
+- **Instagram:** [instagram.com/jeromeudoh](https://www.instagram.com/jeromeudoh){:target="_blank"}
+- **Twitter:** [twitter.com/UdohJerome](https://twitter.com/UdohJerome){:target="_blank"}
+- **TikTok:** [tiktok.com/@jubasstv](https://www.tiktok.com/@jubasstv){:target="_blank"}
+- **YouTube:** [youtube.com/@JUBASSTV](https://www.youtube.com/@JUBASSTV){:target="_blank"}
+- **GitHub:** [github.com/Jubasstech](https://github.com/Jubasstech){:target="_blank"}
+
 
 Projects
 
