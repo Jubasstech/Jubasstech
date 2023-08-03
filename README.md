@@ -22,47 +22,44 @@ Please take a moment to explore my portfolio, where you'll find a curated select
 
 Let's connect and stay in touch through various social media platforms:
 
-## Social Media Links
-
 - [WhatsApp](https://wa.me/2348088221162)
 - [LinkedIn](https://www.linkedin.com/in/jerome-udoh-072756125)
 - [Instagram](https://www.instagram.com/jeromeudoh)
 - [Twitter](https://twitter.com/UdohJerome)
 - [TikTok](https://www.tiktok.com/@jubasstv)
 - [YouTube](https://www.youtube.com/@JUBASSTV)
+- [Facebook](https://www.facebook.com/jerome.udoh)
 - [GitHub](https://github.com/Jubasstech)
--Facebook](https://www.facebook.com/jerome.udoh)
 
-
-Projects
+## Projects
 
 I'm constantly working on exciting projects to improve my skills and contribute positively to the tech community. Here are some highlights of my work:
 
-    Project A
+   ## Project A
         Description: A web application that allows users to create and share interactive quizzes.
         GitHub Repository: github.com/jeromeudoh/project-a
 
-    Project B
+   ## Project B
         Description: An e-commerce platform with a focus on user experience and seamless transactions.
         GitHub Repository: github.com/jeromeudoh/project-b
 
-    Project C
+    ## Project C
         Description: A mobile app for managing daily tasks and boosting productivity.
         GitHub Repository: github.com/jeromeudoh/project-c
 
-Contributions
+## Contributions
 
 I'm an active member of the open-source community and believe in giving back. Some of my notable contributions include:
 
-    Contribution 1
+   ## Contribution 1
         Description: Added new features to a popular JavaScript library.
         GitHub Pull Request: link
 
-    Contribution 2
+    ## Contribution 2
         Description: Fixed a critical bug in a Python package.
         GitHub Pull Request: link
 
-Get in Touch
+## Get in Touch
 
 I'm always eager to collaborate, discuss ideas, and contribute to exciting projects. Feel free to connect with me on Facebook or any of the other social media platforms mentioned above. Let's create something amazing together!
 
