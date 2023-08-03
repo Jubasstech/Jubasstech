@@ -22,13 +22,16 @@ Please take a moment to explore my portfolio, where you'll find a curated select
 
 Let's connect and stay in touch through various social media platforms:
 
-- **WhatsApp:** [Message Jubass on WhatsApp](https://wa.me/2348088221162){:target="_blank"}
-- **LinkedIn:** [linkedin.com/in/jerome-udoh-072756125](https://www.linkedin.com/in/jerome-udoh-072756125){:target="_blank"}
-- **Instagram:** [instagram.com/jeromeudoh](https://www.instagram.com/jeromeudoh){:target="_blank"}
-- **Twitter:** [twitter.com/UdohJerome](https://twitter.com/UdohJerome){:target="_blank"}
-- **TikTok:** [tiktok.com/@jubasstv](https://www.tiktok.com/@jubasstv){:target="_blank"}
-- **YouTube:** [youtube.com/@JUBASSTV](https://www.youtube.com/@JUBASSTV){:target="_blank"}
-- **GitHub:** [github.com/Jubasstech](https://github.com/Jubasstech){:target="_blank"}
+## Social Media Links
+
+- [WhatsApp](https://wa.me/2348088221162)
+- [LinkedIn](https://www.linkedin.com/in/jerome-udoh-072756125)
+- [Instagram](https://www.instagram.com/jeromeudoh)
+- [Twitter](https://twitter.com/UdohJerome)
+- [TikTok](https://www.tiktok.com/@jubasstv)
+- [YouTube](https://www.youtube.com/@JUBASSTV)
+- [GitHub](https://github.com/Jubasstech)
+
 
 
 Projects
