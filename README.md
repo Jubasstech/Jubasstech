@@ -31,7 +31,7 @@ Let's connect and stay in touch through various social media platforms:
 - [TikTok](https://www.tiktok.com/@jubasstv)
 - [YouTube](https://www.youtube.com/@JUBASSTV)
 - [GitHub](https://github.com/Jubasstech)
-
+-Facebook](https://www.facebook.com/jerome.udoh)
 
 
 Projects
