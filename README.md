@@ -22,7 +22,7 @@ Please take a moment to explore my portfolio, where you'll find a curated select
 
 Let's connect and stay in touch through various social media platforms:
 
-- **Facebook:** [facebook.com/jerome.udoh](https://www.facebook.com/jerome.udoh)
+- **Facebook:** [facebook.com/jerome.udoh]
 - **WhatsApp:** [Message Jubass on WhatsApp](https://wa.me/2348088221162) *(Feel free to reach out!)*
 - **LinkedIn:** [linkedin.com/in/jerome-udoh-072756125](https://www.linkedin.com/in/jerome-udoh-072756125)
 - **Instagram:** [instagram.com/jeromeudoh](https://www.instagram.com/jeromeudoh)
