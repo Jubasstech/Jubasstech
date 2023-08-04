@@ -64,7 +64,11 @@ I'm an active member of the open-source community and believe in giving back. So
         GitHub Pull Request: link
 
 ## Get in Touch
+## Get in Touch
 
-I'm always eager to collaborate, discuss ideas, and contribute to exciting projects. Feel free to connect with me on Facebook or any of the other social media platforms mentioned above. Let's create something amazing together!
+I'm always eager to collaborate, discuss ideas, and contribute to exciting projects. Feel free to connect with me on [Facebook](https://www.facebook.com/jerome.udoh) or any of the other social media platforms mentioned above. Let's create something amazing together!
+
+Thank you for visiting my GitHub profile. Happy coding! 🚀
+
 
 Thank you for visiting my GitHub profile. Happy coding! 🚀
