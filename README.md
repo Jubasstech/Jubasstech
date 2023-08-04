@@ -18,9 +18,9 @@ Furthermore, I possess expertise in mobile app development for both iOS and Andr
 Throughout my career, I have had the privilege of collaborating with diverse clients and businesses across various industries. My commitment to excellence and a client-centric approach has earned me a solid reputation for delivering exceptional results.
 Please take a moment to explore my portfolio, where you'll find a curated selection of my most successful projects. Each project showcases my skills, creativity, and attention to detail. If you're seeking a dedicated professional who can bring your digital visions to life, I'd love to connect and discuss how I can help you achieve your goals.
 
-## Social Media Links
+## Social Media Links and my portfolio 
 
-Let's connect and stay in touch through various social media platforms:
+Let's connect and stay in touch through various social media platform.
 
 - [WhatsApp](https://wa.me/2348088221162)
 - [LinkedIn](https://www.linkedin.com/in/jerome-udoh-072756125)
@@ -30,6 +30,10 @@ Let's connect and stay in touch through various social media platforms:
 - [YouTube](https://www.youtube.com/@JUBASSTV)
 - [Facebook](https://www.facebook.com/jerome.udoh)
 - [GitHub](https://github.com/Jubasstech)
+- [Website 1](https://www.jubassvtu.com.ng)
+- [Website 2](https://www.jubass.com.ng)
+
+
 
 ## Projects
 
