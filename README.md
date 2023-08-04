@@ -66,7 +66,6 @@ I'm an active member of the open-source community and believe in giving back. So
 
 ## Get in Touch
 
-I'm always eager to collaborate, discuss ideas, and contribute to exciting projects. Feel free to connect with me on [Facebook](https://www.facebook.com/jerome.udoh) or any of the other social media platforms mentioned above. You can also reach out to me via email at [jeromeudoh7@gmail.com](mailto:jeromeudoh7@gmail.com). Let's create something amazing together!
+I'm always eager to collaborate, discuss ideas, and contribute to exciting projects. Feel free to connect with me on [Facebook](https://www.facebook.com/jerome.udoh) or any of the other social media platforms mentioned above. You can also reach out to me via email at jeromeudoh7@gmail.com. Let's create something amazing together!
 
 Thank you for visiting my GitHub profile. Happy coding! 🚀
-
