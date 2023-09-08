@@ -30,7 +30,7 @@ Let's connect and stay in touch through various social media platform.
 - [YouTube](https://www.youtube.com/@JUBASSTV)
 - [Facebook](https://www.facebook.com/jerome.udoh)
 - [GitHub](https://github.com/Jubasstech)
-- [Website 1](https://www.jubassvtu.com.ng)
+- [Website 1](https://www.jubasstech.com)
 - [Website 2](https://www.jubass.com.ng)
 
 
